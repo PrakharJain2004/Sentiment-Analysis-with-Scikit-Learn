@@ -16,7 +16,7 @@ The project follows a standard machine learning pipeline, covering data explorat
 - Seaborn
 
 **Dataset:**
-The dataset consists of tweets about US airlines, publicly available on [GitHub](https://raw.githubusercontent.com/kolaveridi/kaggle-Twitter-US-Airline-Sentiment-/master/Tweets.csv).
+The dataset consists of tweets about US airlines, publicly available on [GitHub](https://raw.githubusercontent.com/kolaveridi/kaggle-Twitter-US-Airline-Sentiment-/master/Tweets.csv) or the folder with all the data is also uploaded.
 
 **Exploratory Data Analysis (EDA):**
 - Analyzed the distribution of tweets among different airlines.
