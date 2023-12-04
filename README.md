@@ -1,4 +1,4 @@
-*Sentiment Analysis on Airline Tweets*
+***Sentiment Analysis on Airline Tweets***
 
 **Problem Definition:**
 Given tweets about six US airlines, the task is to predict whether a tweet contains positive, negative, or neutral sentiment about the airline. This is a supervised learning task, categorizing text strings into predefined sentiment categories.
